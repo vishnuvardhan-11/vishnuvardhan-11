@@ -9,7 +9,7 @@ I work on Python-based projects, chatbots, and voice assistants, with experience
 
 I’m looking to collaborate on Python-based projects, AI/ML, and full-stack web development.
 
-👨‍💻 All of my projects are available at [My GitHub Portfolio](https://github.com/yourusername)
+👨‍💻 All of my projects are available at [My GitHub Portfolio](https://github.com/vishnuvardhan-11)
 
 💬 Ask me about Python, Databases, and Software Development
 
