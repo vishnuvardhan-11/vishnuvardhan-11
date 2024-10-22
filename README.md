@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **AI based Projects, Python projects, Database projects**
 
-- 🤝 I’m looking for help with **Developing AI Based Software which can used in Hiring system**
+- 🤝 I’m looking for help with **Developing AI Based Software which can be used in Hiring system**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishnuvardhan-11](https://github.com/vishnuvardhan-11)
 
