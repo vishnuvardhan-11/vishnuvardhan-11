@@ -46,4 +46,4 @@ I’m looking to collaborate on Python-based projects, AI/ML, and full-stack web
 ---
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/vishnuvardhanreddykarrevula)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/vishnuvardhanreddykarrevula/)
