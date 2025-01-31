@@ -1,28 +1,70 @@
-<h1 align="center">Hi 👋, I'm Karrevula Vishnuvardhan Reddy</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+# 👋 Hi, I'm Karrevula Vishnuvardhan Reddy!  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuvardhan-11&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuvardhan-11" /> </p>
+🚀 **Passionate Software Developer | AI Enthusiast | Problem Solver**  
 
-- 🔭 I’m currently working on [SafeVote: Secure voting system using Blockchain](https://github.com/vishnuvardhan-11/Voting-System)
+📍 Hyderabad, India | 📧 [vishnuvardhanreddykarrevula@gmail.com](mailto:vishnuvardhanreddykarrevula@gmail.com)  
 
-- 🌱 I’m currently learning **Prompt Engineering, AWS, Ethical Hacking**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](http://www.linkedin.com/in/vishnuvardhanreddykarrevula)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/vishnuvardhan-11)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/vishnuvardhanreddykarrevula/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/profile/kvvr1466145)  
 
-- 👯 I’m looking to collaborate on **AI based Projects, Python projects, Database projects**
+---
 
-- 🤝 I’m looking for help with **Developing AI Based Software which can be used in Hiring system**
+## 📌 About Me  
+- 🎓 Final-year **Computer Science & Engineering** student at **SR University, Warangal**  
+- 💡 Enthusiastic about **AI, Data Structures, and Full-Stack Development**  
+- 🔧 Love building **voice assistants, chatbots, and automation tools**  
+- 🌱 Always learning and exploring **new AI tools & technologies**  
 
-- 👨‍💻 All of my projects are available at [https://github.com/vishnuvardhan-11](https://github.com/vishnuvardhan-11)
+---
 
-- 📫 How to reach me **vishnuvardhanreddykarrevula@gmail.com**
+## 🛠️ Technical Skills  
+- **Languages:** Python, HTML, CSS  
+- **Databases:** MySQL  
+- **Tools & Platforms:** GitHub, VS Code, ChatGPT, Gemini AI  
+- **Soft Skills:** Collaboration, Leadership, Communication, Time Management  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vishnuvardhanreddykarrevula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vishnuvardhanreddykarrevula" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vardhan_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vardhan_2004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vardhan_849/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vardhan_849/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 💻 Projects  
+### 🔹 **Voice-Activated Assistant**  
+🔹 Built a virtual assistant using **Speech Recognition & Text-to-Speech**  
+🔹 Performs tasks like **playing music, fetching Wikipedia summaries, and telling jokes**  
+🔹 **Tech Stack:** Python  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnuvardhan-11&show_icons=true&locale=en&layout=compact" alt="vishnuvardhan-11" /></p>
+### 🔹 **Student Helpdesk Chatbot**  
+🔹 Automated query resolution chatbot using **NLP & Pandas**  
+🔹 Provides structured responses based on predefined intents  
+🔹 **Tech Stack:** Python, NLP, Pandas  
+
+### 🔹 **Hostel Management System**  
+🔹 Developed a student record management system for **room assignments & fee tracking**  
+🔹 Supports **real-time data retrieval & storage**  
+🔹 **Tech Stack:** Python, File Handling, OOP  
+
+---
+
+## 📜 Certifications  
+- **Python Programming: From Basics to Advanced** – Udemy  
+- **Data Structures in Python** – Udemy  
+- **Software Engineering Basics for Everyone** – Edx  
+- **Project Management Principles and Practices** – Coursera  
+
+---
+
+## 🏆 Achievements  
+- 🏅 **Gold Medal in Academics (2019)**  
+- 🥈 **Silver Medal in Knowledge Quiz (2018)**  
+- 🎯 **Flipkart GRID 4.0 Development Challenge (2022) Participant**  
+- 🌟 **TATA Imagination Challenge (2022) Participant**  
+
+---
+
+## 💡 Interests  
+🎯 Exploring AI Tools | 🌐 Internet Surfing | 🎮 Playing Carroms  
+
+---
+
+📌 **Let's connect and build something amazing!**  
+💬 **DM me on LinkedIn or check out my GitHub repositories.**  
